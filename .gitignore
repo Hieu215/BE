@@ -1,12 +1,4 @@
 node_modules
 package.json
-package-lock.json
-
-.DS_Store
-dist
-dist-ssr
-*.local
-/node_modules
-*.zip
-/.env
 yarn.lock
+package-lock.json
